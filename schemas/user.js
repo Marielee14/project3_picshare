@@ -11,7 +11,7 @@ export default {
     {
       name: "image",
       title: "Image",
-      type: "string",
+      type: "string", // url 이기 때문에
     },
   ],
 };
